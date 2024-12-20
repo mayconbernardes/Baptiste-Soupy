@@ -19,16 +19,18 @@ const Hero = () => {
               Me contacter
             </a>
             <a
-              href="#about"
+              href="https://github.com/Soupyx"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-block px-6 py-3 border border-white hover:bg-white/10 rounded-lg transition-colors"
             >
-              En savoir plus
+              GitHub
             </a>
           </div>
         </div>
         <div className="md:w-1/2 flex justify-center animate-fade-up" style={{ animationDelay: '0.6s' }}>
           <img
-            src="/profile.jpg"
+            src="/lovable-uploads/7ed96db1-3f3a-4236-b2bf-983108ac16d7.png"
             alt="Baptiste Soupy"
             className="w-64 h-64 rounded-full object-cover border-4 border-white shadow-lg"
           />
