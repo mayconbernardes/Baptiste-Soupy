@@ -37,7 +37,7 @@ const Contact = () => {
               <Linkedin size={24} />
             </a>
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/Soupyx"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-accent transition-colors"
