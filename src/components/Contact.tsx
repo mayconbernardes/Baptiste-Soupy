@@ -29,7 +29,7 @@ const Contact = () => {
           </div>
           <div className="flex items-center justify-center space-x-6">
             <a
-              href="https://www.linkedin.com/in/baptiste-soupy"
+              href="https://www.linkedin.com/in/baptiste-soupy-7b4291253/?originalSubdomain=fr"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-accent transition-colors"
