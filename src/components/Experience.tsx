@@ -4,13 +4,13 @@ const experiences = [
   {
     title: 'Stage - Shenron Formation',
     date: 'Avril à juin 2024',
-    description: 'Développement d'un projet CDA avec des étudiants de 3ème année, création d'une application mobile et d'un site web en utilisant Laravel, React et React Native. Créations de maquettes sur Figma en partenariat avec une étudiante de 3ème année.',
+    description: `Développement d'un projet CDA avec des étudiants de 3ème année, création d'une application mobile et d'un site web en utilisant Laravel, React et React Native. Créations de maquettes sur Figma en partenariat avec une étudiante de 3ème année.`,
     tech: 'LARAVEL/REACT'
   },
   {
     title: 'Stage - Naval Group',
     date: 'Avril à juin 2023',
-    description: 'Conception et développement de l'intranet de la DIRISI (base navale de Toulon). Pendant ce stage j'ai dû réaliser un tableau qui permettait de faciliter la recherche d'informations des militaires afin de leur faire gagner du temps.',
+    description: `Conception et développement de l'intranet de la DIRISI (base navale de Toulon). Pendant ce stage j'ai dû réaliser un tableau qui permettait de faciliter la recherche d'informations des militaires afin de leur faire gagner du temps.`,
     tech: 'PHP/SQL'
   },
   {
