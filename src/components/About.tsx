@@ -33,7 +33,7 @@ const About = () => {
               <div className="space-y-3">
                 <div className="flex items-center space-x-3">
                   <Briefcase className="text-accent" size={20} />
-                  <span>19 ans</span>
+                  <span>20 ans</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <MapPin className="text-accent" size={20} />

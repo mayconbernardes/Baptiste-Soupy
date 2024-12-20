@@ -28,7 +28,7 @@ const Hero = () => {
         </div>
         <div className="md:w-1/2 flex justify-center animate-fade-up" style={{ animationDelay: '0.6s' }}>
           <img
-            src="https://media.licdn.com/dms/image/v2/D4E03AQFvqw9gBVgWrw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721033184845?e=1740009600&v=beta&t=QnW8dltgtA9hbRdWWha5autwxnr83Dr8mm5qX705cLU"
+            src="https://scontent-cdg4-1.cdninstagram.com/v/t51.29350-15/321346304_570781247756248_3074941917744981558_n.webp?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=104&_nc_ohc=BB0Tj4KrvTYQ7kNvgFMZ25t&_nc_gid=dd12bb60a8df43b2a0bf5efb83ab944e&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzAwMDQ1NDMwOTk2MzkyODA2OQ%3D%3D.3-ccb7-5&oh=00_AYCoiRrP9vv0OlrSV0l3iXP3-7rXYdYT3SYzECbSLQfIbw&oe=676B6F45&_nc_sid=7a9f4b"
             alt="Baptiste Soupy"
             className="w-64 h-64 rounded-full object-cover border-4 border-white shadow-lg"
           />
